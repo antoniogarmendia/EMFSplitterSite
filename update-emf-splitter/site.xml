@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.emf.splitter.feature_0.1.0.201706011620.jar" id="org.emf.splitter.feature" version="0.1.0.201706011620">
+   <feature url="features/org.emf.splitter.feature_0.1.0.201706011635.jar" id="org.emf.splitter.feature" version="0.1.0.201706011635">
       <category name="Miso"/>
    </feature>
    <category-def name="Miso" label="Miso"/>
